@@ -185,7 +185,7 @@ const developer = {
 <div align="center">
 
 ### 💬 Random Dev Quote
-<p>suggest another code like that If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.</p>
+<p> If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.</p>
 
 <br/>
 
