@@ -30,7 +30,7 @@
 
 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SakshiCode731&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiCode731&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
