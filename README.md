@@ -185,7 +185,7 @@ const developer = {
 <div align="center">
 
 ### 💬 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p>suggest another code like that If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.</p>
 
 <br/>
 
