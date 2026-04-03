@@ -23,7 +23,7 @@
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshiCode731&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=SakshiCode731&show_icons=true&theme=radical)
 
 ---
 
